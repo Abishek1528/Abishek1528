@@ -1,22 +1,55 @@
-<h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">First-year Software Product Engineering student at Kalvium</h3>
+<h1 align="center">Hey 👋 I'm Abishek</h1>
 
-- 🔭 I’m currently working on **MERN stack, Java, DSA & System Design**
-
-- 🌱 I’m currently learning **MERN stack, Java, Data Structures & System Design**
-
-- 👯 I’m looking to collaborate on **Passionate about full-stack development & backend systems**
-
-- 🤝 I’m looking for help with **Exploring backend development, open source, and automation with Python**
-
-- 📫 How to reach me **abishekcholan07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thamizh anban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thamizh anban" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Product+Engineering+Student;Full-Stack+Developer+in+Progress;Backend+%3E+Frontend;Learning+by+Building+Stuff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="center">Second-year @ Kalvium 🚀</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abishekdevil&show_icons=true&locale=en" alt="abishekdevil" /></p>
+---
+
+### 🧠 Who am I?
+- 🔭 Currently building with **MERN, Java, DSA & System Design**
+- 🌱 Learning **how real-world systems work**, not just how to pass exams
+- 👯 Down to collaborate on **full-stack / backend-heavy projects**
+- 🤝 Exploring **open source, backend internals & Python automation**
+- 📫 Mail me: **abishekcholan07@gmail.com**
+
+---
+
+### 🌍 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/thamizhanban" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech I Use (and actually understand)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats (no fake flex)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abishekdevil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekdevil&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+⚡ Consistency > motivation.  
+🛠️ Shipping > talking.
+</p>
